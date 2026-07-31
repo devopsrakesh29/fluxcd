@@ -9,7 +9,7 @@ spec:
 
   interval: 1m
 
-  path: "./clusters/dev"
+  path: "./cluster/dev"
 
   prune: true
 
